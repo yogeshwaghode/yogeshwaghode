@@ -1,90 +1,41 @@
-# 👋 Hi, I'm Yogesh Waghode
+<!-- 🌟 Yogesh Waghode GitHub Profile README 🌟 -->
 
-🎯 **Aspiring Software Developer | Open to Opportunities | Passionate Learner**
-
-Welcome to my GitHub profile!  
-I’m a tech enthusiast with a background in **Computer Science And Engineering (B.Tech)**, eager to explore, learn, and build impactful solutions.  
-I believe in continuous improvement, teamwork, and adapting quickly to new technologies and challenges.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8B5CF6&center=true&vCenter=true&width=940&lines=Hi+👋%2C+I'm+Yogesh+Waghode;Aspiring+Full+Stack+%26+AI+Developer;Passionate+about+Data+%26+Logic;Building+the+Future+with+Web+%26+Intelligence" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
+```python
+class YogeshWaghode:
+    def __init__(self):
+        self.education = "B.Tech in Information Technology"
+        self.strengths = ["Analytical Thinking", "Problem Solving", "Adaptability"]
+        self.learning = ["React", "Node.js", "Python for AI", "Data Analysis"]
+        self.goal = "To build intelligent web solutions that solve real-world problems"
 
-- 🌱 I’m currently enhancing my skills in **Full Stack Development** and exploring modern frameworks.  
-- 💡 I enjoy experimenting with new tools, solving real-world problems, and contributing to meaningful projects.  
-- 💬 I’m always open to collaboration, ideas, and discussions that expand my learning horizon.  
-- 🎯 My goal: To become a versatile developer capable of delivering scalable, efficient, and user-focused software.
+    def daily_routine(self):
+        return [
+            "☀️ Morning & Learn",
+            "🤖 Explore new AI concepts",
+            "💻 Work on personal projects",
+            "📚 Improve and share knowledge"
+        ]
 
----
+    def fun_fact(self):
+        return "I analyze everything — even my coffee brewing pattern 😄"
+💼 What I Do
+💻 Full Stack Development	🤖 AI & Automation	📊 Data & Analysis
+Designing and building responsive web applications using the MERN stack	Integrating AI features into apps using Python and APIs	Turning data into insights using Pandas, NumPy, scikit-learn, and analytical thinking
 
-## 🛠️ Skills & Tools
+🧰 Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yogeshwaghode&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshwaghode&theme=tokyonight" alt="GitHub Streak" height="160"/> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/yogeshwaghode" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/yogeshwaghode" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:yogeshwaghode@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+💡 Quote
+"Blending logic with creativity to build intelligent web experiences."
 
-**Languages:**  
-`Java` · `JavaScript` · `Python` · `C`  
-
-**Frontend:**  
-`HTML5` · `CSS3` · `React (Basics)`  
-
-**Backend:**  
-`Node.js` · `Express.js` (Learning Phase)  
-
-**Database:**  
-`MySQL` · `MongoDB`  
-
-**Other Tools:**  
-`Git` · `GitHub` · `VS Code` · `Postman` · `Figma (Basics)`
-
----
-
-## 📂 Projects
-
-Here are a few of my works that reflect my learning journey:
-
-### 🌦️ Weather Forecast Application  
-A responsive web app that provides real-time weather data for any city.  
-**Tech Stack:** HTML, CSS, JavaScript, OpenWeather API  
-- Displays temperature, humidity, and weather icons dynamically.  
-- Clean UI with modern design for better user experience.
-
-### 💻 Portfolio Website  
-A personal website showcasing my projects and skills.  
-**Tech Stack:** HTML, CSS, JavaScript  
-- Simple and elegant design.  
-- Responsive layout with smooth navigation.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshwaghode&show_icons=true&theme=radical" alt="Yogesh's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshwaghode&theme=radical" alt="Yogesh's GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwaghode&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yogeshwaghode/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Waghode-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/yogeshwaghode">
-    <img src="https://img.shields.io/badge/GitHub-yogeshwaghode-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 💬 Let's Collaborate
-
-I’m always excited to work on projects that push my learning boundaries.  
-Whether it’s a new idea, open-source contribution, or internship opportunity — I’m open to learning and building together!
-
----
-
-⭐ *“Turning ideas into reality through code and curiosity.”*  
+⭐ Inspired by innovation | Fueled by curiosity | Focused on building the future.
